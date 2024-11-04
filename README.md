@@ -1,0 +1,2 @@
+- 👋 Hi, I'm Carlos Eduardo Falandes.
+- 👀 I'm interested in research and teaching in the fields of computing.
